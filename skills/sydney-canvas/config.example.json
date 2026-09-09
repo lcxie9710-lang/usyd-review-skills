@@ -1,0 +1,6 @@
+{
+  "canvas_base": "https://canvas.sydney.edu.au",
+  "canvas_token": "PASTE_YOUR_CANVAS_ACCESS_TOKEN_HERE",
+  "echo360_tool_id": 11653,
+  "output_dir": "data"
+}

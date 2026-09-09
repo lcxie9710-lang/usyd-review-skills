@@ -1,0 +1,16 @@
+# secrets & local config — never commit these
+config.json
+*.token
+.env
+
+# downloaded course content (privacy — never publish)
+sydney-canvas/data/
+
+# python
+__pycache__/
+*.pyc
+.venv-*/
+
+# os
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+config.json
+data/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.venv-echo/
+.vendor-echo/
+.tmp-pip/
+vendor/
